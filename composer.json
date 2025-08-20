@@ -1,0 +1,19 @@
+{
+    "name": "pb/phppresentation-media-missing",
+    "type": "project",
+    "require": {
+        "phpoffice/phppresentation": "1.1.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BugDemo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Philip Bolting",
+            "email": "pb@philipbolting.de"
+        }
+    ]
+}
